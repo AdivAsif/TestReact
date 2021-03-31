@@ -1,0 +1,14 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  },
+  "emmet.excludeLanguages": [
+    "markdown"
+  ],
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "terminal.integrated.shell.windows": "D:\\Important\\Git\\bin\\bash.exe",
+}
